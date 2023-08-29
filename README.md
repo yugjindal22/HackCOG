@@ -4,3 +4,9 @@ This is InfecScan, an Al model that gathers user symptoms through targeted quest
 This integrated solution offers convenient and proactive healthcare management, addressing post-pandemic challenges and fostering holistic well-being.
 
 I've made all the frontend of the website, and the backend was done by my teammate.
+
+### Team Members:
+- [Yug Jindal](https://github.com/yugjindal22)
+- [Apoorv Mittal](https://github.com/apoorv012)
+- [Krrish Sehgal](https://github.com/kishu567)
+- [Yashita Gogia](https://github.com/yag1109)
