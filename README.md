@@ -8,5 +8,5 @@ I've made all the frontend of the website, and the backend was done by my teamma
 ### Team Members:
 - [Yug Jindal](https://github.com/yugjindal22)      (Handled the fronted and website design)
 - [Apoorv Mittal](https://github.com/apoorv012)     (Handled the backend)
-- [Krrish Sehgal](https://github.com/kishu567)      (Did the website design, and the presentation)
+- [Krrish Sehgal](https://github.com/kishu567)      (Helped in website design, and the presentation)
 - [Yashita Gogia](https://github.com/yag1109)       (Did the research part)
