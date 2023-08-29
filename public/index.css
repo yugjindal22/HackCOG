@@ -1,0 +1,210 @@
+body {
+  
+    background-image: url(./images/indexbg2.jpeg);
+    background-size: contain;
+  }
+  
+  #content {
+    
+    text-align: left;
+    
+    color: white;
+    margin-right: 500px;
+  }
+
+  
+  h2 {
+    font-weight:500;
+    font-size: 100px;
+    padding-top: 30%;
+  }
+  h1 {
+    padding-top: 10%;
+    font-weight: 500;
+    font-size: 70px;
+   
+  }
+  h3 {
+    font-weight:300;
+    font-size: 20px;
+
+  }
+  h4 {
+    font-weight:500;
+    font-size: 100px;
+   
+  }
+  #text1 {
+    color: black;
+    font-weight: 900;
+    font-size: 60px;
+    padding-bottom: 2%;
+  }
+  #text2 {
+    color: black;
+    font-weight: 900;
+    font-size: 50px;
+  }
+  #text3 {
+    color: white;
+    font-weight: 900;
+    font-size: 50px;
+  }
+  
+  hr {
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgb(0, 0, 0, 0.2);
+  }
+  
+  nav {
+    background-color: rgba(0, 0, 0, 0.747);
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+  }
+  a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    /* text-decoration: none; */
+  }
+  
+  nav a {
+    text-decoration: none;
+    font-size: 17px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  
+  /* Dropdown Button */
+  .dropbtn {
+    background-color: #04aa6d;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+  }
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {
+    background-color: #ddd;
+  }
+  
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  /* Change the background color of the dropdown button when the dropdown content is shown */
+  .dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+  }
+  .fixed-bg {
+    min-height: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  
+  .first {
+    background: #1de9fd;
+    width: 100%;
+    height: 1000px;
+    background: #ccc;
+  }
+  
+  .second {
+    width: 100%;
+    height: 1000px;
+    background: #999;
+  }
+  body {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+  #searchbar {
+    margin-left: 100px;
+    width: 500px;
+  }
+  #title1 {
+    color: black;
+  }
+  #title2 {
+    color: black;
+  }
+  #logo {
+    width: 20px;
+    height: 20px;
+    margin-bottom: 5px;
+  }
+  #navalign {
+    /* float: right; */
+    display: flexbox;
+    justify-content: end;
+  }
+  .btn-default {
+    font-family: Raleway-SemiBold;
+    font-size: 13px;
+    color: black;
+    letter-spacing: 1px;
+    line-height: 15px;
+    border: 2px black;
+    border-radius: 40px;
+    background: white;
+    transition: all 0.3s ease 0s;
+  }
+  
+  .btn-default:hover {
+    color: #FFF;
+    background: rgba(108, 88, 179, 0.75);
+    border: 2px solid rgba(108, 89, 179, 0.75);
+  }
+  
+  .btn-primary {
+    font-family: Raleway-SemiBold;
+    font-size: 13px;
+    color: rgba(58, 133, 191, 0.75);
+    letter-spacing: 1px;
+    line-height: 15px;
+    border: 2px solid rgba(58, 133, 191, 0.75);
+    border-radius: 40px;
+    background: transparent;
+    transition: all 0.3s ease 0s;
+  }
+  
+  .btn-primary:hover {
+    color: #FFF;
+    background: rgba(58, 133, 191, 0.75);
+    border: 2px solid rgba(58, 133, 191, 0.75);
+  }
+  .imgfluid {
+    height: 200px;
+    width: 200px;
+  }
+  h1 {
+    font-weight:500;
+    font-size: 60px;
+    padding-top: 30%;
+  }
